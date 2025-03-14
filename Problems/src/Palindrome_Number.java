@@ -31,7 +31,6 @@ Solution;
  */
 
 public class Palindrome_Number {
-    // print hellow world
     public static void main(String[] args) throws Exception {
         int x = -121;
         if (x < -1) {
